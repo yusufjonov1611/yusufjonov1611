@@ -8,8 +8,9 @@
 <p align="center">
   <a href="https://t.me/yusufjonov_me"><img src="https://img.shields.io/badge/Telegram-@yusufjonov__me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:yusufjonov.me@gmail.com"><img src="https://img.shields.io/badge/Email-yusufjonov.me@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yusufjonov1611/portfolio"><img src="https://img.shields.io/badge/UWP_Portfolio-Live_3D-00ff9d?style=for-the-badge&logo=codewars&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Location-Uzbekistan-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://yusufjonov1611.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Online_24%2F7-00ff9d?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://github.com/yusufjonov1611/portfolio"><img src="https://img.shields.io/badge/Source_Code-GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/Location-Uzbekistan-ff3366?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -96,7 +97,7 @@ status:
         Zamonaviy 3D Three.js kiber-xavfsizlik portfoliom. Hacker Terminali, UZ/RU/EN ko'p tilli tarjima tizimi, himoyalangan Admin CRUD boshqaruvi va 24/7 PM2 arxitekturasi bilan.
       </p>
       <p align="center">
-        <a href="https://github.com/yusufjonov1611/portfolio"><b>🔗 Ko'rish (yusufjonov1611/portfolio)</b></a>
+        <a href="https://yusufjonov1611.github.io/portfolio/"><b>🌐 Jonli Saytni Ochish (Live 24/7)</b></a> • <a href="https://github.com/yusufjonov1611/portfolio"><b>💻 Kodlar</b></a>
       </p>
     </td>
     <td width="50%">
